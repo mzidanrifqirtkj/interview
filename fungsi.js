@@ -3,6 +3,7 @@ function cek(){
     return "Cek";
 }
 
+
 function tambah(a,b){
     int tambah=a+b;
     return tambah;
